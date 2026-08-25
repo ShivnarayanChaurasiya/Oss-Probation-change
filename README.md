@@ -28,6 +28,6 @@ Before starting your assigned tasks, please add your details to this README file
 
 | Name       | Student No. | Domain              |
 | ---------- | ----------- | ------------------- |
-| Yash Kumar | 123456      | Backend Development |
+| Ayush gupta | 2511073      | Full Stack Developer |
 
 **Note:** Please add only your own details and do not modify other students' entries.
