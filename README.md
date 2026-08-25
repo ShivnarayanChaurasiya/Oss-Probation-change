@@ -8,7 +8,7 @@ Before starting your assigned tasks, please add your details to this README file
 
 | Name      | Student No.      | Domain      |
 | --------- | ---------------- | ----------- |
-| Riya Nayak|25153141        | ML          |
+| Himanshu Singh|25169040       | developer         |
 
 ### Instructions
 
