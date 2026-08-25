@@ -15,9 +15,9 @@ Before starting your assigned tasks, please add your details to this README file
 1. Fork this repository.
 2. Update the **Student Details** table with your:
 
-   * Name - Yash 
-   * Student Number - 2411004
-   * Domain
+   * Name - Rahul Verma 
+   * Student Number - 25153096
+   * Domain- Backend Development
 3. Commit your changes.
 4. Push the changes to your fork.
 5. Create a Pull Request to this repository.
@@ -28,6 +28,6 @@ Before starting your assigned tasks, please add your details to this README file
 
 | Name       | Student No. | Domain              |
 | ---------- | ----------- | ------------------- |
-| Yash Kumar | 123456      | Backend Development |
+| Rahul Verma | 25153096     | Backend Development |
 
 **Note:** Please add only your own details and do not modify other students' entries.
