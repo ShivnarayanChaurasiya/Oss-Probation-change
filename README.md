@@ -15,9 +15,9 @@ Before starting your assigned tasks, please add your details to this README file
 1. Fork this repository.
 2. Update the **Student Details** table with your:
 
-   * Name - Yash 
-   * Student Number - 2411004
-   * Domain
+   * Name - ujjwal gupta  
+   * Student Number - 2512195
+   * Domain - computer science
 3. Commit your changes.
 4. Push the changes to your fork.
 5. Create a Pull Request to this repository.
