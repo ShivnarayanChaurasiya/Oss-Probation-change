@@ -6,10 +6,11 @@ Before starting your assigned tasks, please add your details to this README file
 
 ## Student Details
 
-| Name           | Student No. | Domain   |
-| -------------- | ----------- | -------- |
-| Vanshika Verma | 2512068     | Frontend |
-| Riya Nayak     | 25153141    | ML       |
+| Name            | Student No. | Domain               |
+| ---------------- | ----------- | --------------------- |
+| Vanshika Verma  | 2512068     | Frontend              |
+| Riya Nayak      | 25153141    | ML                    |
+| Uditanshu Singh | 25153112    | Backend Development   |
 
 ### Instructions
 
@@ -28,3 +29,6 @@ Before starting your assigned tasks, please add your details to this README file
 
 | Name       | Student No. | Domain              |
 | ---------- | ----------- | -------------------- |
+| John Doe   | 12345       | Computer Science     |
+
+**Note:** Please add only your own details and do not modify or remove others' entries.
