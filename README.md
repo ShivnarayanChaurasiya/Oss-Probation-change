@@ -9,14 +9,18 @@ Before starting your assigned tasks, please add your details to this README file
 | Name      | Student No.      | Domain      |
 | --------- | ---------------- | ----------- |
 | Rehan khan | 25154083 | App dev  |
+| Name            | Student No. | Domain               |
+| ---------------- | ----------- | --------------------- |
+| Vanshika Verma  | 2512068     | Frontend              |
+| Riya Nayak      | 25153141    | ML                    |
+| Uditanshu Singh | 25153112    | Backend Development   |
 
 ### Instructions
 
 1. Fork this repository.
 2. Update the **Student Details** table with your:
-
-   * Name - Yash 
-   * Student Number - 2411004
+   * Name
+   * Student Number
    * Domain
 3. Commit your changes.
 4. Push the changes to your fork.
@@ -27,7 +31,7 @@ Before starting your assigned tasks, please add your details to this README file
 ### Example
 
 | Name       | Student No. | Domain              |
-| ---------- | ----------- | ------------------- |
-| Yash Kumar | 123456      | Backend Development |
+| ---------- | ----------- | -------------------- |
+| John Doe   | 12345       | Computer Science     |
 
-**Note:** Please add only your own details and do not modify other students' entries.
+**Note:** Please add only your own details and do not modify or remove others' entries.
