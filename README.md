@@ -22,6 +22,9 @@ Before starting your assigned tasks, please add your details to this README file
 1. Fork this repository.
 2. Update the **Student Details** table with your:
 
+   * Name - Arpit Rajput
+   * Student Number - 2511021
+   * Domain - ML
    * Name - VISHAL
    * Student Number - 2511024
    * Domain - Backend
