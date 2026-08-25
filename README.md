@@ -41,6 +41,7 @@ Before starting your assigned tasks, please add your details to this README file
 
 | Name       | Student No. | Domain              |
 | ---------- | ----------- | ------------------- |
+| Ayush gupta | 2511073      | Full Stack Developer |
 | VISHAL     | 2511024     | Backend Development |
 
 **Note:** Please add only your own details and do not modify other students' entries.
