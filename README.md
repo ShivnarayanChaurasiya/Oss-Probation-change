@@ -8,16 +8,16 @@ Before starting your assigned tasks, please add your details to this README file
 
 | Name      | Student No.      | Domain      |
 | --------- | ---------------- | ----------- |
-| Your Name | Your Student No. | Your Domain |
+| vanshika verma | 2512068 | frontend |
 
 ### Instructions
 
 1. Fork this repository.
 2. Update the **Student Details** table with your:
 
-   * Name - Yash 
-   * Student Number - 2411004
-   * Domain
+   * Name - Vanshika verma 
+   * Student Number - 2512068
+   * Domain frontend
 3. Commit your changes.
 4. Push the changes to your fork.
 5. Create a Pull Request to this repository.
