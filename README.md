@@ -8,7 +8,7 @@ Before starting your assigned tasks, please add your details to this README file
 
 | Name      | Student No.      | Domain      |
 | --------- | ---------------- | ----------- |
-| Your Name | Your Student No. | Your Domain |
+| Rehan khan | 25154083 | App dev  |
 
 ### Instructions
 
