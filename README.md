@@ -33,10 +33,6 @@ Before starting your assigned tasks, please add your details to this README file
    * Student Number - 2511024
    * Domain - Backend
 
-   * Name - Ashwani Rai
-   * Student Number - 2013025
-   * Domain - Frontend
-   
    * Name 
    * Student Number 
    * Domain
