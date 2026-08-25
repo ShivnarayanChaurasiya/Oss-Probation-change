@@ -6,6 +6,9 @@ Before starting your assigned tasks, please add your details to this README file
 
 ## Student Details
 
+| Name      | Student No.      | Domain      |
+| --------- | ---------------- | ----------- |
+| Rehan khan | 25154083 | App dev  |
 | Name            | Student No. | Domain               |
 | ---------------- | ----------- | --------------------- |
 | Vanshika Verma  | 2512068     | Frontend              |
