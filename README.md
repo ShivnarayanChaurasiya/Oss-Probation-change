@@ -8,6 +8,7 @@ Before starting your assigned tasks, please add your details to this README file
 
 | Name      | Student No.      | Domain      |
 | --------- | ---------------- | ----------- |
+| Utkarsh Tiwari | 25169082 | Frontend |
 | Himanshu Singh|25169040       | developer         |
 | Rehan khan | 25154083 | App dev  |
 | Name            | Student No. | Domain               |
