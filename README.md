@@ -26,8 +26,9 @@ Before starting your assigned tasks, please add your details to this README file
 
 ### Example
 
-| Name       | Student No. | Domain              |
-| ---------- | ----------- | ------------------- |
-| Yash Kumar | 123456      | Backend Development |
+| Name          | Student No. | Domain              |
+| ----------    | ----------- | ------------------- |
+| Yash Kumar    | 123456      | Backend Development |
+| Prabal Pandey | 25131750    | Backend Development |
 
 **Note:** Please add only your own details and do not modify other students' entries.
