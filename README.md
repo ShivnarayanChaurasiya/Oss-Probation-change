@@ -13,12 +13,13 @@ Before starting your assigned tasks, please add your details to this README file
 | Himanshu Singh|25169040       | developer         |
 | Rehan khan | 25154083 | App dev  |
 | Name            | Student No. | Domain               |
-| ---------------- | ----------- | --------------------- |
+| Shweta Verma     | 2531246 |       Designing |
 | Vanshika Verma  | 2512068     | Frontend              |
 | Riya Nayak      | 25153141    | ML                    |
 | Uditanshu Singh | 25153112    | Backend Development   |
 | Rahul Verma     | 25153096    | Backend Development   |
 | Ashwani Rai   | 2513028    | Frontend
+| Rudraksh Baranwal | 2510112   | Frontend              |
 
 ### Instructions
 
